@@ -1,7 +1,7 @@
 # Presentation_Control_Using_HandGesture_and-Voice_Commands
 
 <div align="center"> 
-<img src="https://github.com/ranizouaoui/PPT-Presentation-controlled-by-hand-gesture/blob/main/Thumbnail.png" alt="" />
+
  </div> 
  <br/>
  In this project, we have built a system that lets you control your presentation using hand gestures instead of buttons. This system will: use computer vision to detect the user's hands and fingers in real time and use machine learning to recognize gestures, like pointing, drawing, etc using a neural network to translate the hand gestures into actions on your computer, such as moving to the next slide.
